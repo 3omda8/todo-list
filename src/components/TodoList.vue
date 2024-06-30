@@ -9,7 +9,7 @@ import TodoItem from "./TodoItem.vue";
 export default {
   components: { TodoItem },
   props: {
-    todos: Array,
+    todos: [],
   },
 };
 </script>
